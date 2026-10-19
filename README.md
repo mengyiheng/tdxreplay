@@ -1,4 +1,6 @@
-﻿<p align="center"><img src="assets/cover.png" alt="tdxreplay" width="720"/></p>
+<p align="center"><img src="assets/cover.png" alt="tdxreplay" width="720"/></p>
+
+<p align="center"><img src="assets/demo.gif" alt="tdxreplay demo" width="640"/></p>
 
 # tdxreplay — 通达信本地分钟线模拟实时回放
 
