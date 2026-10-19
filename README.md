@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/cover.png" alt="tdxreplay" width="720"/></p>
+﻿<p align="center"><img src="assets/cover.png" alt="tdxreplay" width="720"/></p>
 
 # tdxreplay — 通达信本地分钟线模拟实时回放
 
@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-pip install tdxdata tdxreplay
+pip install tdx-data tdxreplay
 # 或从 Gitee 安装最新版
 pip install git+https://gitee.com/mengyiheng/tdxreplay.git
 ```
