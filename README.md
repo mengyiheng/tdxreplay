@@ -108,3 +108,15 @@ list_dates(vipdoc, code)  # -> ["2026-10-14", ...]
 ## License
 
 MIT
+
+## 量化相关定制需求
+
+作者承接回放与一致性验证方向的定制开发：
+
+| 方向 | 示例 |
+|---|---|
+| ⏱ 回放工程化 | tick 级重放、多日连续回放、WebSocket 推送、回放加速集群 |
+| ✅ 一致性校验 | 实盘/回放信号逐根比对工具、未来函数检测报告 |
+| 🛠 私有部署 | 与你现有回测框架的适配层开发 |
+
+**联系合作**：[Gitee Issues](https://gitee.com/mengyiheng/tdxreplay/issues) 或 [Gitee 私信](https://gitee.com/mengyiheng)。
