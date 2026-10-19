@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/cover.png" alt="tdxreplay" width="720"/></p>
+
 # tdxreplay — 通达信本地分钟线模拟实时回放
 
 **目的：帮检验回测系统的真实性。**
